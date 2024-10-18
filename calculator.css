@@ -1,0 +1,27 @@
+
+table {
+ border:1px solid rgb(194, 190, 190);
+ margin-left: auto;
+ margin-right: auto;
+ padding:20px 40px;
+ margin-top: 150px;
+ background:black;
+ 
+}
+.intro [type="button"] {
+    background-color: rgb(4, 245, 4);
+    padding:20px 40px;
+    width:100%;
+    font-style:bold;
+    font-weight:500;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    font-size: medium;
+
+} 
+.intro [type="text"]{
+    padding:20px 40px;
+    width:100%;
+    background: white;
+}
